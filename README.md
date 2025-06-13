@@ -70,3 +70,4 @@
 2. Fill in all required data in `./botconfig/config.json` **NOTE:** If you're on replit.com, it is exposed to everyone!*(use .env instead)*
 3. Fill in all required data in the `.json` files in ./social_log/ (`./social_log/streamconfig.json` & ``./social_log/twitter.json`), if you want the SOCIAL LOGS to work! (the key `authToken` in streamconfig does not need to be filled in!)
 4. Now start the bot by opening a cmd line in that folder and typing: `node index.js` or `npm start` * If you don't want to keep the terminal open or if you're on linux,type: `pm2 start --name Bot_Name index.js`
+## ❓ Where to get which Api-Key(s)
