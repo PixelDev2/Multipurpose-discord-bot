@@ -81,3 +81,10 @@
 `fortnitetracker` is a FORTNITE TRACKER token, which you may get from fortnitetracker.com (needed for fnstats)
 2. `./social_log/streamconfig.json`
    - `twitch_clientID` you can get from: [Twitch-Developer](https://dev.twitch.tv/docs/api) ([developer-console](https://dev.twitch.tv/console)
+   - `twitch_secret` you can get from: [Twitch-Developer](https://dev.twitch.tv/docs/api) ([developer-console]((https://dev.twitch.tv/console))
+   - `authToken`  is not required to be filled in --> will be done automatically
+3. `./social_log/twitter.json`
+   - `consumer_key` you can get from: [twitter Developers](https://developer.twitter.com/)
+   - `consumer_secret` you can get from: [twitter Developers](https://developer.twitter.com/)
+   - `access_token` you can get from: [twitter Developers](https://developer.twitter.com/)
+   - `access_token_secret` you can get from: [twitter Developers](https://developer.twitter.com/)
