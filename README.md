@@ -68,3 +68,4 @@
 
 1. Check `🎶 Music Requirements` that you started lavalink / use a valid public lavalink station.
 2. Fill in all required data in `./botconfig/config.json` **NOTE:** If you're on replit.com, it is exposed to everyone!*(use .env instead)*
+3. Fill in all required data in the `.json` files in ./social_log/ (`./social_log/streamconfig.json` & ``./social_log/twitter.json`), if you want the SOCIAL LOGS to work! (the key `authToken` in streamconfig does not need to be filled in!)
