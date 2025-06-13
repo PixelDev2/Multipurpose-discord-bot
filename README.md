@@ -17,4 +17,10 @@
 
  ## 🎶 Music Requirements
  *To allow your Bot to play music, you need to connect it to a LavaLink station! There are many public ones out there for example lava.link An example for a public configuration will be listed down below.*
+
 1. Make sure `Java 11` is installed on your system!
+   -    [Click here for a Download for Linux](https://github.com/Tomato6966/Debian-Cheat-Sheet-Setup/wiki/3.5.2-java-11)
+   -    [Click here for a Download for Windows ​](https://downloads.milrato.eu/windows/java/jdk-11.0.11.exe)
+2. Download [Lavalink.jar](https://github.com/freyacodes/Lavalink/releases/download/3.4/Lavalink.jar)
+   - Here is a direct link:
+     https://github.com/freyacodes/Lavalink/releases/download/3.4/Lavalink.jar
