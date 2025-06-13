@@ -9,8 +9,4 @@ PROJECT IS NOT MAINTAINED ANYMORE 😥
 <details>
   <summary> Click to expand</summary>
 
-[nodejs](https://nodejs.org/en) version 16.6 or higher, I recommend the latest STABLE version
-python version 3.8 or higher, to install the database enmap (better-sqlite3)
-A VPS would be advised, so you don't need to keep your PC/laptop/RasPi 24/7 online! Click here for a debian setup.
-Check out my recommended Host: BERO-HOST and use code milrato for cheap OP VPS (kvm)
-Click here for a Direct Order Link  
+ - nodejs version 16.6 or higher, I recommend the latest STABLE version
