@@ -73,6 +73,8 @@ PROJECT IS NOT MAINTAINED ANYMORE 😥
    }
 }
 ```
+
+<details>
 # 🤖 Configuration and Starting
 <details>
   <summary> Click to expand</summary>
