@@ -64,4 +64,7 @@
 }
 ```
 ## 🤖 Configuration and Starting
-**NOTE:** You can do the exact same configuration inside of the example.env file, just make sure to rename it to .env or use environment variables!
+**NOTE:** You can do the exact same configuration inside of the `example.env` file, just make sure to rename it to `.env` or use environment variables!
+
+1. Check `🎶 Music Requirements` that you started lavalink / use a valid public lavalink station.
+2. Fill in all required data in `./botconfig/config.json` **NOTE:** If you're on replit.com, it is exposed to everyone!*(use .env instead)*
