@@ -11,4 +11,5 @@
 - Check out my recommended Host: [BERO-HOST](https://bero.host/) and use code `milrato` for cheap OP VPS (kvm)
 
 ## 🤖 Bot Requirements
-1. Download the Source Code
+1. Download the [Source Code](https://github.com/PixelDev2/Multipurpose-discord-bot)
+   -Either by: git clone https://github.com/PixelDev2/Multipurpose-discord-bot
