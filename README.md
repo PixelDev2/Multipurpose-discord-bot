@@ -1,2 +1,2 @@
 # Public Bot and Discord Server!
-[Join our Discord](https://discord.gg/whpAuajamK)
+[📢 Join our Discord server!](https://discord.gg/whpAuajamK)
