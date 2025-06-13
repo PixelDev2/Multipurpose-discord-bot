@@ -32,3 +32,35 @@
   - Make sure to keep your terminal Open!
   - If you want to use something like `npm i -g pm2` to host it without keeping your terminal open type: `pm2 start java -- -jar Lavalink.jar`
 5. The settings like password in application.yml and port must be provided in the `botconfig/config.json` of the Bot
+  - If you used the default settings, than no adjustments are needed and it should look like this:
+```json
+{
+   "clientsettings": {
+       "nodes": [
+           {
+               "host": "localhost",
+               "port": 2333,
+               "password": "youshallnotpass"
+           }
+       ]
+   }
+}
+```
+
+**6 - You don't want to host your own LavaLink?**  
+&nbsp;&nbsp;&nbsp;&nbsp;• Or just use something like this:
+
+```json
+{
+   "clientsettings": {
+       "nodes": [
+           {
+               "host": "lava.link",
+               "port": 80,
+               "password": "Anything for the Password"
+           }
+       ]
+   }
+}
+```
+
