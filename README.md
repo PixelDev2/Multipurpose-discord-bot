@@ -1,4 +1,4 @@
-# ADD MORE SOON NO DONE COMING SOON!
+# ADD MORE SOON NOT DONE COMING SOON!
 
 # Public Bot and Discord Server!
 [📢 Join our Discord Server!](https://discord.gg/whpAuajamK)
