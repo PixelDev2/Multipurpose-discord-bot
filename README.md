@@ -64,3 +64,4 @@
 }
 ```
 ## 🤖 Configuration and Starting
+**NOTE:** You can do the exact same configuration inside of the example.env file, just make sure to rename it to .env or use environment variables!
