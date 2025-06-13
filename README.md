@@ -43,7 +43,7 @@ PROJECT IS NOT MAINTAINED ANYMORE 😥
   - If you want to use something like npm i -g pm2 to host it without keeping your terminal open type: pm2 start java -- -jar Lavalink.jar
   5 - The settings like password in application.yml and port must be provided in the botconfig/config.json of the Bot
     - If you used the default settings, than no adjustments are needed and it should look like this:
-    ```json
+    json
 "settings": {
   "nodes": [
     {
