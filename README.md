@@ -12,4 +12,4 @@
 
 ## 🤖 Bot Requirements
 1. Download the [Source Code](https://github.com/PixelDev2/Multipurpose-discord-bot)
-   -Either by: git clone https://github.com/PixelDev2/Multipurpose-discord-bot
+   - Either by: git clone https://github.com/PixelDev2/Multipurpose-discord-bot
