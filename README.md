@@ -53,7 +53,7 @@ PROJECT IS NOT MAINTAINED ANYMORE 😥
            }
        ]
    }
-}
+}```
 
 6 - You don't want to host your own LavaLink?
     - Or just use something like this:
@@ -67,4 +67,4 @@ PROJECT IS NOT MAINTAINED ANYMORE 😥
            }
        ]
    }
-}
+}```
