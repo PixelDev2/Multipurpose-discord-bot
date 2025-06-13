@@ -9,3 +9,6 @@
 - [nodejs](https://nodejs.org/en) version 16.6 or higher, I recommend the latest STABLE version
 - [python](https://www.python.org/) version 3.8 or higher, to install the database `enmap` (better-sqlite3)
 - Check out my recommended Host: [BERO-HOST](https://bero.host/) and use code `milrato` for cheap OP VPS (kvm)
+
+## 🤖 Bot Requirements
+1. Download the Source Code
