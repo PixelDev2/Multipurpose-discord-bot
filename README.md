@@ -54,3 +54,17 @@ PROJECT IS NOT MAINTAINED ANYMORE 😥
        ]
    }
 }
+
+6 - You don't want to host your own LavaLink?
+    - Or just use something like this:
+```{
+   "clientsettings": {
+       "nodes": [
+           {
+               "host": "lava.link",
+               "port": 80,
+               "password": "Anything for the Password"
+           }
+       ]
+   }
+}
