@@ -24,3 +24,11 @@
 2. Download [Lavalink.jar](https://github.com/freyacodes/Lavalink/releases/download/3.4/Lavalink.jar)
    - Here is a direct link:
      https://github.com/freyacodes/Lavalink/releases/download/3.4/Lavalink.jar
+   - If you are on linux do this: `wget` `https://github.com/freyacodes/Lavalink/releases/download/3.4/Lavalink.jar` (prep: `apt-get install -y wget`)
+3. Download [application.yml](https://cdn.discordapp.com/attachments/734517910025928765/934084553751015475/application.yml)
+   - Download my example, it's the configuration for the lavalink.jar file!
+4. Now put application.yml and Lavalink.jar in the same folder and start it
+  - To start LavaLink type: `java -jar Lavalink.jar`
+  - Make sure to keep your terminal Open!
+  - If you want to use something like `npm i -g pm2` to host it without keeping your terminal open type: `pm2 start java -- -jar Lavalink.jar`
+5. The settings like password in application.yml and port must be provided in the `botconfig/config.json` of the Bot
