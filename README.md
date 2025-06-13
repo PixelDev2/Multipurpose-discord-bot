@@ -72,3 +72,12 @@
 4. Now start the bot by opening a cmd line in that folder and typing: `node index.js` or `npm start` * If you don't want to keep the terminal open or if you're on linux,type: `pm2 start --name Bot_Name index.js`
 ## ❓ Where to get which Api-Key(s)
 **NOTE:** *You can do the exact same configuration inside of the `example.env` file, just make sure to rename it to `.env` or use environment variables!*
+1. `./botconfig/config.json`
+   - `token` you can get from: [discord-Developers](https://discord.com/developers/applications)
+   - `memer_api`you can get from: [Meme-Development DC](https://discord.gg/Mc2FudJkgP)
+   - `spotify.clientSecret` you can get from: [Spotify-Developer](https://developer.spotify.com/)
+   - `spotify.clientID` you can get from: [Spotify-Developer](https://developer.spotify.com/)
+   - `fnbr` is a FNBR token, which you may get from [FNBRO.co](https://fnbr.co/api/docs) (needed for fnshop)
+`fortnitetracker` is a FORTNITE TRACKER token, which you may get from fortnitetracker.com (needed for fnstats)
+2. `./social_log/streamconfig.json`
+   - `twitch_clientID` you can get from: [Twitch-Developer](https://dev.twitch.tv/docs/api) ([developer-console](https://dev.twitch.tv/console)
