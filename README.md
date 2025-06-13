@@ -6,3 +6,4 @@
 
 # Installation Guide 🔥
 ## ✅ Hosting Requirements
+[nodejs](https://nodejs.org/en) version 16.6 or higher, I recommend the latest STABLE version
