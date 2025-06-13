@@ -73,10 +73,13 @@ PROJECT IS NOT MAINTAINED ANYMORE 😥
    }
 }
 ```
+# 🤖 Configuration and Starting
+<details>
+  <summary> Click to expand</summary>
 
-NOTE: You can do the exact same configuration inside of the example.env file, just make sure to rename it to .env or use environment variables!
+  NOTE: You can do the exact same configuration inside of the example.env file, just make sure to rename it to .env or use environment variables!
 
-Check 🎶 Music Requirements that you started lavalink / use a valid public lavalink station.
+Check `🎶 Music Requirements` that you started lavalink / use a valid public lavalink station.
 Fill in all required data in ./botconfig/config.json NOTE: If you're on replit.com, it is exposed to everyone!(use .env instead)
 Fill in all required data in the .json files in ./social_log/ (./social_log/streamconfig.json & ./social_log/twitter.json), if you want the SOCIAL LOGS to work! (the key authToken in streamconfig does not need to be filled in!)
 You can adjust some settings in the other ./botconfig/*.json Files, BUT PLEASE KEEP MY CREDITS & ADS! This is the only way on how my hard work is "revenued".
