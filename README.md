@@ -14,3 +14,6 @@
 1. Download the [Source Code](https://github.com/PixelDev2/Multipurpose-discord-bot)
    - Either by: git clone https://github.com/PixelDev2/Multipurpose-discord-bot
    - Or by downloading it as a zip from the releases tab or a branch.
+
+ ## 🎶 Music Requirements
+ 
