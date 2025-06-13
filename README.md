@@ -16,4 +16,4 @@
    - Or by downloading it as a zip from the releases tab or a branch.
 
  ## 🎶 Music Requirements
- 
+ *To allow your Bot to play music, you need to connect it to a LavaLink station! There are many public ones out there for example lava.link An example for a public configuration will be listed down below.*
