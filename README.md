@@ -21,8 +21,8 @@ PROJECT IS NOT MAINTAINED ANYMORE 😥
 <details>
   <summary> Click to expand</summary>
 
-Download the Source Code
-Either by: git clone https://github.com/Tomato6966/Multipurpose-discord-bot
-Or by downloading it as a zip from the releases tab or a branch.
+- Download the Source Code
+- Either by: git clone https://github.com/Tomato6966/Multipurpose-discord-bot
+- downloading it as a zip from the releases tab or a branch.
 
 </details>
