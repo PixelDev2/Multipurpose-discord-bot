@@ -61,7 +61,6 @@
            }
        ]
    }
-## 🤖 Configuration and Starting
 }
 ```
-
+## 🤖 Configuration and Starting
