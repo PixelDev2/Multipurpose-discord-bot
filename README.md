@@ -88,3 +88,5 @@
    - `consumer_secret` you can get from: [twitter Developers](https://developer.twitter.com/)
    - `access_token` you can get from: [twitter Developers](https://developer.twitter.com/)
    - `access_token_secret` you can get from: [twitter Developers](https://developer.twitter.com/)
+     ## Credits
+     If you consider using this Bot, make sure to credit me! Example: Bot Coded by [Tomato#6966](https://discord.gg/AsgD3gtPnb)
